@@ -1,0 +1,9 @@
+@import url("styles/header.css");
+@import url("styles/banner.css");
+
+
+:root {
+    --cor-de-fundo: #3ebfff;
+    --cor-fonte-titulo: #222e3a; 
+    --cor-fonte-texto: #8a8790;
+}
