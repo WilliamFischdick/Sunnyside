@@ -1,6 +1,23 @@
 
-
-
 .banner__imagem {
-    width: 100%;
+   background-image: url('../img/image-header.jpg');
+   background-position: 50% 50%;
+   background-size: cover;
+   width: 100%;
+   height: 900px;
+}
+
+.banner__imagem__titulo {
+    font-size: 50px;
+    font-family: var(--fonte-principal);
+    color: var(--cor-fonte-header);
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 4em;
+}
+
+.banner__imagem__flecha {
+    position: relative;
+    left:49%;
+    top: 20%;
 }

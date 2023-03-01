@@ -19,3 +19,10 @@
 .cabecalho__imagem {
     width: 300px;
 }
+
+.lista-cabecalho__link {
+    text-decoration: none;
+    font-size: 20px;
+    font-family: var(--fonte-principal);
+    color: var(--cor-fonte-header);
+}
