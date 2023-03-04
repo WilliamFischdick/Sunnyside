@@ -1,6 +1,9 @@
 @import url("styles/header.css");
 @import url("styles/banner.css");
-@import url("styles/main.css");
+@import url("styles/container.css");
+@import url("styles/card.css");
+@import url("styles/cliente.css");
+@import url("styles/fotocard.css");
 
 
 :root {
@@ -8,6 +11,11 @@
     --cor-fonte-titulo: #222e3a; 
     --cor-fonte-texto: #8a8790;
     --cor-fonte-header: #ffffff;
+    --cor-titulo-card-verde: #1f5347;
+    --cor-titulo-card-azul: #1b4e69;
+    --cor-texto-card-verde: #3a7466;
+    --cor-texto-card-azul: #1d698b;
+    --cor-titulo-cliente: #b4b3b4;
     --fonte-principal: "Calistoga";
     --fonte-paragrafo: "Open Sans";
 }
