@@ -79,5 +79,10 @@
     color: var(--cor-fonte-titulo);
     font-size: 18px;
     text-align: center;
+    transition: 1s;
+}
+
+.container__link:hover {
+    color: #4fc773
 }
 

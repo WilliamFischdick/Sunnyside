@@ -25,6 +25,11 @@
     font-size: 20px;
     font-weight: bold;
     font-family: var(--fonte-paragrafo);
+    transition: 1s;
+}
+
+.footer__link:hover {
+    color: var(--cor-fonte-header);
 }
 
 .footer__social-media {
@@ -33,4 +38,6 @@
 
 .footer__smidia {
     padding: 0 1em 0 1em;
+    cursor: pointer;
 }
+
