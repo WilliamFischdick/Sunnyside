@@ -1,0 +1,62 @@
+
+.cliente__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cliente__card__container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 6em;
+   
+}
+
+.cliente__titulo {
+    font-size: 23px;
+    font-family: var(--fonte-principal);
+    color: var(--cor-titulo-cliente);
+    text-transform: uppercase;
+    padding-top: 9em;
+}
+
+.cliente__card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 4em 0 4em;
+}
+
+.cliente__imagem {
+    width: 100px;
+    border-radius: 100%;
+}
+
+.cliente__texto {
+    width: 450px;
+    padding-top: 4em;
+    text-align: center;
+    font-family: var(--fonte-paragrafo);
+    color: var(--cor-fonte-titulo);
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.75em;
+}
+
+.cliente__nome {
+    font-size: 21px;
+    color: var(--cor-fonte-titulo);
+    font-family: var(--fonte-principal);
+    text-align: center;
+    font-weight: bold;
+    padding-top: 4em;
+}
+
+.cliente__profissao {
+    font-size: 15px;
+    color: var(--cor-titulo-cliente);
+    font-family: var(--fonte-paragrafo);
+    text-align: center;
+    padding-top: 1em;
+    font-weight: bold;
+}
