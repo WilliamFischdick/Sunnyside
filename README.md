@@ -1,9 +1,16 @@
 # Sunnyside
-Sunnyside - Website
+Sunnyside - Landing page
 
-Este projeto teve como finalidade desenvolver uma
+## DETALHES DO PROJETO:
+O Objetivo principal do projeto foi desenvolver uma
 página web para uma empresa de marketing.
-Dentro deste projeto vamos encontrar várias imagens 
-e um pequeno espaço para o depoimento dos clientes.
 
-As tecnologias envolvidas foram o HTML e CSS.
+A página conta com várias imagens 
+e um espaço para o depoimento dos clientes.
+
+![](assets/img/Sunnysidemodel.png)
+
+## TECNOLOGIAS USADAS NO PROJETO:
+* HTML
+* CSS
+
